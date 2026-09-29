@@ -1,0 +1,6 @@
+{
+  "name": "GroqChat - Fast AI Assistant",
+  "description": "A lightning-fast, ChatGPT-style conversational assistant powered by Groq high-speed inference, supporting multiple LLMs, streaming responses, chat history, and prompt controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
